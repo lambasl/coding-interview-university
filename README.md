@@ -236,6 +236,9 @@ Sometimes the classes are not in session so you have to wait a couple of months,
     I'd appreciate your help to add free and always-available public sources, such as YouTube videos to accompany the online course videos.
     I like using university lectures.
 
+## Step 0
+
+- [X] Clone this repo
 
 ## Interview Process & General Interview Prep
 
